@@ -1,0 +1,49 @@
+---
+title: "Untitled"
+format: gfm
+execute:
+  echo: false
+  message: false
+  warning: false 
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
+
+# Source
+
+Page 130: http://www.nsomalawi.mw/images/stories/data_on_line/economics/ICT/ICT%20Household%20Survey%202019.pdf
+
+
+Table title: Proportion of Individuals by Ownership of and Access to ICT Equipment and Services by District, ICT 2019
+
+```{r}
+
+nso_ict <- read_csv(here::here("data/tidy_data/nso-malawi-ict-survey-2019.csv"))
+
+```
+
+# Table
+
+```{r}
+
+nso_ict %>% 
+  pivot_wider(names_from = variable,
+              values_from = percent) %>% 
+  knitr::kable()
+ 
+```
+
+# Plot
+
+```{r}
+nso_ict %>% 
+  ggplot(aes(x = variable, y = district, fill = percent)) +
+  geom_tile() +
+  #coord_flip() + 
+  #coord_fixed() +
+  scale_fill_viridis_c() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```

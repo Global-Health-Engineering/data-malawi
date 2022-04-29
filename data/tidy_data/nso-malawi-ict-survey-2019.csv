@@ -1,0 +1,257 @@
+district,variable,percent
+Chitipa,owns_radio,44.7
+Chitipa,listens_to_radio,81.1
+Chitipa,watches_tv,33.4
+Chitipa,computer_use,8.6
+Chitipa,mobile_phone,57.0
+Chitipa,internet_access,11.3
+Chitipa,mobile_money,22.5
+Chitipa,postal_service_use,4.1
+Karonga,owns_radio,47.2
+Karonga,listens_to_radio,76.6
+Karonga,watches_tv,34.1
+Karonga,computer_use,12.0
+Karonga,mobile_phone,58.2
+Karonga,internet_access,22.0
+Karonga,mobile_money,36.9
+Karonga,postal_service_use,4.3
+Nkhata Bay,owns_radio,52.2
+Nkhata Bay,listens_to_radio,76.8
+Nkhata Bay,watches_tv,23.4
+Nkhata Bay,computer_use,8.1
+Nkhata Bay,mobile_phone,60.7
+Nkhata Bay,internet_access,24.0
+Nkhata Bay,mobile_money,24.0
+Nkhata Bay,postal_service_use,3.8
+Rumphi,owns_radio,39.9
+Rumphi,listens_to_radio,68.0
+Rumphi,watches_tv,27.6
+Rumphi,computer_use,8.1
+Rumphi,mobile_phone,58.5
+Rumphi,internet_access,19.3
+Rumphi,mobile_money,36.9
+Rumphi,postal_service_use,6.0
+Mzimba,owns_radio,46.5
+Mzimba,listens_to_radio,83.2
+Mzimba,watches_tv,22.6
+Mzimba,computer_use,8.3
+Mzimba,mobile_phone,51.9
+Mzimba,internet_access,25.9
+Mzimba,mobile_money,22.3
+Mzimba,postal_service_use,3.6
+Likoma,owns_radio,39.3
+Likoma,listens_to_radio,42.6
+Likoma,watches_tv,86.9
+Likoma,computer_use,3.3
+Likoma,mobile_phone,49.2
+Likoma,internet_access,8.2
+Likoma,mobile_money,13.1
+Likoma,postal_service_use,3.3
+Mzuzu City,owns_radio,63.2
+Mzuzu City,listens_to_radio,93.1
+Mzuzu City,watches_tv,67.9
+Mzuzu City,computer_use,34.1
+Mzuzu City,mobile_phone,74.5
+Mzuzu City,internet_access,50.0
+Mzuzu City,mobile_money,54.9
+Mzuzu City,postal_service_use,14.3
+Kasungu,owns_radio,29.8
+Kasungu,listens_to_radio,80.5
+Kasungu,watches_tv,20.7
+Kasungu,computer_use,5.6
+Kasungu,mobile_phone,45.4
+Kasungu,internet_access,13.7
+Kasungu,mobile_money,31.4
+Kasungu,postal_service_use,2.0
+Nkhotakota,owns_radio,31.6
+Nkhotakota,listens_to_radio,79.3
+Nkhotakota,watches_tv,27.0
+Nkhotakota,computer_use,5.7
+Nkhotakota,mobile_phone,48.2
+Nkhotakota,internet_access,17.5
+Nkhotakota,mobile_money,28.1
+Nkhotakota,postal_service_use,3.6
+Ntchisi,owns_radio,31.1
+Ntchisi,listens_to_radio,59.1
+Ntchisi,watches_tv,16.0
+Ntchisi,computer_use,1.3
+Ntchisi,mobile_phone,26.6
+Ntchisi,internet_access,5.5
+Ntchisi,mobile_money,22.3
+Ntchisi,postal_service_use,0.4
+Dowa,owns_radio,30.5
+Dowa,listens_to_radio,69.8
+Dowa,watches_tv,6.7
+Dowa,computer_use,1.8
+Dowa,mobile_phone,29.3
+Dowa,internet_access,4.3
+Dowa,mobile_money,17.8
+Dowa,postal_service_use,2.0
+Salima,owns_radio,32.6
+Salima,listens_to_radio,71.3
+Salima,watches_tv,14.4
+Salima,computer_use,2.6
+Salima,mobile_phone,32.2
+Salima,internet_access,10.3
+Salima,mobile_money,22.3
+Salima,postal_service_use,1.1
+Lilongwe,owns_radio,31.1
+Lilongwe,listens_to_radio,63.1
+Lilongwe,watches_tv,9.0
+Lilongwe,computer_use,3.1
+Lilongwe,mobile_phone,29.5
+Lilongwe,internet_access,7.6
+Lilongwe,mobile_money,19.8
+Lilongwe,postal_service_use,1.8
+Mchinji,owns_radio,35.3
+Mchinji,listens_to_radio,61.9
+Mchinji,watches_tv,22.9
+Mchinji,computer_use,2.5
+Mchinji,mobile_phone,42.9
+Mchinji,internet_access,9.8
+Mchinji,mobile_money,33.3
+Mchinji,postal_service_use,5.0
+Dedza,owns_radio,21.4
+Dedza,listens_to_radio,47.2
+Dedza,watches_tv,5.4
+Dedza,computer_use,1.9
+Dedza,mobile_phone,22.7
+Dedza,internet_access,4.4
+Dedza,mobile_money,16.8
+Dedza,postal_service_use,2.6
+Ntcheu,owns_radio,31.2
+Ntcheu,listens_to_radio,64.9
+Ntcheu,watches_tv,13.0
+Ntcheu,computer_use,3.9
+Ntcheu,mobile_phone,33.5
+Ntcheu,internet_access,9.5
+Ntcheu,mobile_money,20.1
+Ntcheu,postal_service_use,1.0
+Lilongwe City,owns_radio,65.0
+Lilongwe City,listens_to_radio,80.0
+Lilongwe City,watches_tv,56.2
+Lilongwe City,computer_use,28.8
+Lilongwe City,mobile_phone,72.4
+Lilongwe City,internet_access,37.5
+Lilongwe City,mobile_money,63.0
+Lilongwe City,postal_service_use,9.9
+Mangochi,owns_radio,24.5
+Mangochi,listens_to_radio,60.4
+Mangochi,watches_tv,14.9
+Mangochi,computer_use,5.6
+Mangochi,mobile_phone,29.5
+Mangochi,internet_access,8.9
+Mangochi,mobile_money,13.1
+Mangochi,postal_service_use,2.2
+Machinga,owns_radio,25.4
+Machinga,listens_to_radio,71.1
+Machinga,watches_tv,16.6
+Machinga,computer_use,2.8
+Machinga,mobile_phone,35.3
+Machinga,internet_access,7.2
+Machinga,mobile_money,20.8
+Machinga,postal_service_use,2.0
+Zomba,owns_radio,30.9
+Zomba,listens_to_radio,81.6
+Zomba,watches_tv,13.4
+Zomba,computer_use,3.0
+Zomba,mobile_phone,35.2
+Zomba,internet_access,4.7
+Zomba,mobile_money,26.9
+Zomba,postal_service_use,0.6
+Chiradzulu,owns_radio,35.2
+Chiradzulu,listens_to_radio,73.8
+Chiradzulu,watches_tv,16.6
+Chiradzulu,computer_use,3.7
+Chiradzulu,mobile_phone,36.0
+Chiradzulu,internet_access,3.9
+Chiradzulu,mobile_money,27.3
+Chiradzulu,postal_service_use,0.6
+Blantyre,owns_radio,30.4
+Blantyre,listens_to_radio,73.5
+Blantyre,watches_tv,28.2
+Blantyre,computer_use,8.8
+Blantyre,mobile_phone,42.3
+Blantyre,internet_access,15.5
+Blantyre,mobile_money,39.7
+Blantyre,postal_service_use,3.8
+Mwanza,owns_radio,19.1
+Mwanza,listens_to_radio,67.7
+Mwanza,watches_tv,18.7
+Mwanza,computer_use,1.7
+Mwanza,mobile_phone,25.5
+Mwanza,internet_access,7.2
+Mwanza,mobile_money,13.2
+Mwanza,postal_service_use,2.1
+Thyolo,owns_radio,44.4
+Thyolo,listens_to_radio,72.5
+Thyolo,watches_tv,21.3
+Thyolo,computer_use,7.2
+Thyolo,mobile_phone,44.0
+Thyolo,internet_access,11.9
+Thyolo,mobile_money,31.9
+Thyolo,postal_service_use,6.4
+Mulanje,owns_radio,47.4
+Mulanje,listens_to_radio,80.6
+Mulanje,watches_tv,28.5
+Mulanje,computer_use,3.2
+Mulanje,mobile_phone,43.9
+Mulanje,internet_access,7.6
+Mulanje,mobile_money,30.9
+Mulanje,postal_service_use,2.2
+Phalombe,owns_radio,35.1
+Phalombe,listens_to_radio,68.4
+Phalombe,watches_tv,18.4
+Phalombe,computer_use,4.9
+Phalombe,mobile_phone,36.0
+Phalombe,internet_access,5.7
+Phalombe,mobile_money,21.3
+Phalombe,postal_service_use,2.2
+Chikwawa,owns_radio,37.9
+Chikwawa,listens_to_radio,67.9
+Chikwawa,watches_tv,10.2
+Chikwawa,computer_use,2.1
+Chikwawa,mobile_phone,42.3
+Chikwawa,internet_access,4.5
+Chikwawa,mobile_money,21.8
+Chikwawa,postal_service_use,3.0
+Nsanje,owns_radio,36.1
+Nsanje,listens_to_radio,61.4
+Nsanje,watches_tv,11.9
+Nsanje,computer_use,5.3
+Nsanje,mobile_phone,39.6
+Nsanje,internet_access,8.6
+Nsanje,mobile_money,20.9
+Nsanje,postal_service_use,3.7
+Balaka,owns_radio,33.5
+Balaka,listens_to_radio,65.8
+Balaka,watches_tv,19.1
+Balaka,computer_use,4.5
+Balaka,mobile_phone,46.2
+Balaka,internet_access,12.6
+Balaka,mobile_money,37.4
+Balaka,postal_service_use,1.8
+Neno,owns_radio,32.0
+Neno,listens_to_radio,72.6
+Neno,watches_tv,17.8
+Neno,computer_use,5.8
+Neno,mobile_phone,39.0
+Neno,internet_access,10.8
+Neno,mobile_money,37.8
+Neno,postal_service_use,0.0
+Zomba City,owns_radio,56.8
+Zomba City,listens_to_radio,75.9
+Zomba City,watches_tv,62.3
+Zomba City,computer_use,41.2
+Zomba City,mobile_phone,81.9
+Zomba City,internet_access,53.3
+Zomba City,mobile_money,78.9
+Zomba City,postal_service_use,17.1
+Blantyre City,owns_radio,56.3
+Blantyre City,listens_to_radio,78.8
+Blantyre City,watches_tv,75.9
+Blantyre City,computer_use,37.5
+Blantyre City,mobile_phone,72.8
+Blantyre City,internet_access,44.5
+Blantyre City,mobile_money,61.1
+Blantyre City,postal_service_use,12.4
